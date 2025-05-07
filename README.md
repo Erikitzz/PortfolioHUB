@@ -12,7 +12,7 @@
 
 ---
 
-## 🏁 Projeto Inicial
+##  Projeto Inicial
 
 > Um template base para novos projetos, já configurado com boas práticas, estrutura de pastas e ferramentas comuns.
 
@@ -23,23 +23,22 @@
 
 ---
 
-## 🎓 Projetos Acadêmicos
+##  Projetos Acadêmicos
 
-📁 [`calculadora-em-c/`](./calculadora-em-c) — Calculadora simples em C com interface em terminal  
-📁 [`sistema-biblioteca-java/`](./sistema-biblioteca-java) — Sistema de gerenciamento de biblioteca em Java  
-📁 [`redes-neurais-python/`](./redes-neurais-python) — Implementação de uma rede neural do zero com Python
+📁 [`Projeto de Software`](https://www.canva.com/design/DAGkub4ZD-4/jyzYBsFLqv92bAZ_iGwfFw/edit?utm_content=DAGkub4ZD-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) — Projeto de um site para controle de estoque  
+📁 [`Criação de um App`](https://www.canva.com/design/DAGgIMuMGkw/U2qL9MMzHEg1w6ZoEoDEjw/edit?utm_content=DAGgIMuMGkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) — Escopo de um aplicativo de corrida  
 
 ---
 
-## 💻 Projetos Pessoais
+##  Projetos Pessoais
 
-📁 [`meu-portifolio/`](./meu-portifolio) — Portfólio pessoal em React  
+📁 [`Portifólio Pessoal`](./meu-portifolio)
 📁 [`api-clima/`](./api-clima) — API RESTful para clima usando Node.js  
 📁 [`bot-discord/`](./bot-discord) — Bot para Discord com comandos customizados
 
 ---
 
-## 📚 Documentação
+##  Documentação
 
 📁 [`docs/git/`](./docs/git) — Comandos essenciais do Git  
 📁 [`docs/docker/`](./docs/docker) — Notas sobre Docker e Docker Compose  
