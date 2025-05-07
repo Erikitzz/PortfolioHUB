@@ -57,7 +57,7 @@
 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-Envie%20um%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eriksantanadasilva0507@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Envie%20um%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](eriksantanadasilva0507@gmail.com)
 
 ---
 
