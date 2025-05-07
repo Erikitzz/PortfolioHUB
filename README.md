@@ -1,13 +1,10 @@
 <!-- README com tema dark organizado por categorias e contatos -->
 
 <h1 align="center" style="color:#ffffff;">
-  🧠 Portfólio de Projetos
+   PortfólioHUB
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-222222?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tema-Dark-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+
 
 <p align="center">
   <em>Repositório principal com organização de projetos acadêmicos, pessoais, documentação e um projeto base para novos desenvolvimentos.</em>
@@ -19,12 +16,10 @@
 
 > Um template base para novos projetos, já configurado com boas práticas, estrutura de pastas e ferramentas comuns.
 
-📁 [`projeto-inicial/`](./projeto-inicial)  
-🔧 Tecnologias:
-- Node.js
-- Express
-- ESLint + Prettier
-- Docker
+📁 [`Calcular IMC`](./https://colab.research.google.com/drive/14xMzhXYXxcESb8xoFritPZqs29MSlHyf)  
+ Tecnologia:
+- Python
+
 
 ---
 
@@ -61,11 +56,10 @@
 
 ## 📫 Contato
 
-Entre em contato comigo:
+Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
-[![Email](https://img.shields.io/badge/Email-Envie%20um%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-Envie%20um%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eriksantanadasilva0507@gmail.com)
 
 ---
 
