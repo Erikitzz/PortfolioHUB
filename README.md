@@ -7,14 +7,14 @@
 
 
 <p align="center">
-  <em>Repositório principal com organização de projetos acadêmicos, pessoais, documentação e um projeto base para novos desenvolvimentos.</em>
+  Repositório principal com organização de projetos acadêmicos, pessoais, documentação e um projeto base para novos desenvolvimentos.
 </p>
 
 ---
 
 ##  Projeto Inicial
 
-> Um template base para novos projetos, já configurado com boas práticas, estrutura de pastas e ferramentas comuns.
+
 
 📁 [`Calcular IMC`](https://colab.research.google.com/drive/14xMzhXYXxcESb8xoFritPZqs29MSlHyf)  
  Tecnologia:
@@ -48,10 +48,10 @@
 
 
 
----
 
 
----
+
+
 
 ## 📫 Contato
 
@@ -64,10 +64,10 @@ Entre em contato
 
 
 
----
+
 
 <p align="center" style="color:gray">
-  Desenvolvido com 💻 por <strong>Érik Santana</strong> 
+  Desenvolvido por <strong>Érik Santana</strong> 
 </p>
 
 
