@@ -16,7 +16,7 @@
 
 > Um template base para novos projetos, já configurado com boas práticas, estrutura de pastas e ferramentas comuns.
 
-📁 [`Calcular IMC`](./https://colab.research.google.com/drive/14xMzhXYXxcESb8xoFritPZqs29MSlHyf)  
+📁 [`Calcular IMC`](https://colab.research.google.com/drive/14xMzhXYXxcESb8xoFritPZqs29MSlHyf)  
  Tecnologia:
 - Python
 
