@@ -33,8 +33,7 @@
 ##  Projetos Pessoais
 
 📁 [`Portifólio Pessoal`](./meu-portifolio)
-📁 [`api-clima/`](./api-clima) — API RESTful para clima usando Node.js  
-📁 [`bot-discord/`](./bot-discord) — Bot para Discord com comandos customizados
+
 
 ---
 
