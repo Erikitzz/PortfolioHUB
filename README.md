@@ -1,4 +1,4 @@
-<!-- README com tema dark organizado por categorias e contatos -->
+
 
 <h1 align="center" style="color:#ffffff;">
    PortfólioHUB
