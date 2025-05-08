@@ -16,7 +16,7 @@
 
 
 
-📁 [`Calcular IMC`](https://colab.research.google.com/drive/14xMzhXYXxcESb8xoFritPZqs29MSlHyf)  
+📁 [`Calcular IMC`](https://colab.research.google.com/drive/14xMzhXYXxcESb8xoFritPZqs29MSlHyf?usp=sharing)  
  Tecnologia:
 - Python
 
