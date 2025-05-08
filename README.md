@@ -55,7 +55,7 @@
 
 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/érik-santana-19ba91364)
+[![LinkedIn](https://img.shields.io/badge/Linke-dIn-www.linkedin.com/in/érik-santana-19ba913640077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/érik-santana-19ba91364)
 [![Email](https://img.shields.io/badge/Email-eriksantanadasilva0507@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eriksantanadasilva0507@gmail.com)
 
 ---
