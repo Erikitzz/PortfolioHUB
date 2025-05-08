@@ -56,7 +56,7 @@
 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/Linke-dIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/érik-santana-19ba91364)
-✉️ Email: [eriksantanadasilva0507@gmail.com](mailto:eriksantanadasilva0507@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eriksantanadasilva0507@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eriksantanadasilva0507@gmail.com)
 
 
 
