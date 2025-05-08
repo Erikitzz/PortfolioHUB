@@ -32,7 +32,7 @@
 
 ##  Projetos Pessoais
 
-📁 [`Portifólio Pessoal`](./meu-portifolio)
+📁 [`Portifólio Pessoal`](https://sites.google.com/view/portfoliohubceub/in%C3%ADcio)
 
 
 ---
