@@ -39,9 +39,8 @@
 
 ##  Documentação
 
-📁 [`docs/git/`](./docs/git) — Comandos essenciais do Git  
-📁 [`docs/docker/`](./docs/docker) — Notas sobre Docker e Docker Compose  
-📁 [`docs/react-hooks/`](./docs/react-hooks) — Referência prática de hooks do React
+📁 [`Livro`](https://www.bvirtual.com.br/NossoAcervo/Publicacao/187737) — Referência prática para Lógica de Programação
+
 
 ---
 
